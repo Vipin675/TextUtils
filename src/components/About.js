@@ -70,7 +70,7 @@ let myStyle = {
                 </h2>
                 <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                 <div className="accordion-body" style={myStyle}>
-                This word counter software works in any browsers such as Chrome, Firefox, Internet Explorer, safari,
+                This word counter software works in any browsers such as Chrome, Firefox, Internet Explorer, safari, duckduckgo
                 opera. It suits to count character in facebook, blog, books, excel docoument, pdf docoument, essays etc.
                 </div>
                 </div>
